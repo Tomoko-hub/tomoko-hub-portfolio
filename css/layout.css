@@ -1,0 +1,65 @@
+html {
+    font-size: 62.5%;
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    margin : 10px;
+    padding : 10px;
+}
+
+header {
+    background-color: #69013B;
+    color: #FBDFD1;
+    padding: 10px;
+    border-radius: 20px 20px 0 0;
+}
+.ops {
+    padding: 10px;
+}
+footer {
+    background-color: #69013B;
+    color: #FBDFD1;
+    border-radius: 0 0 20px 20px;
+}
+.footer-p {
+    padding: 20px;
+}
+figure img {
+    max-width: 100%;
+
+}
+#logo {
+    width : 300px;
+
+}
+h1 {
+    font-size: 2rem;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 1.8rem;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+h3 {
+    font-size: 1.6rem;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+ol,p {
+    font-size: 1.4rem;
+    padding-bottom: 10px;
+}
+.sisennys2rem{
+    padding-left: 2rem;
+}
+.sisennys4rem{
+    padding-left: 4rem;
+}
+.sisennys6rem{
+    padding-left: 6rem;
+}
+.sisennys8rem{
+    padding-left: 8rem;
+}
